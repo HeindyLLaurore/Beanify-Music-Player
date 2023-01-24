@@ -1,0 +1,281 @@
+DAILY SCRUM - EVERY DAY AT 8:30AM (as soon as  you arrive)
+==========================================================
+Each member writes down answers to 3 questions in the following format:
+<< current date goes here >>
+1. What I have done / not done since last Scrum?
+2. What I plan to do from this scrum to next? (next 24 hours)
+3. Where do I need assistance? What do I need to figure out?
+
+======================================================================
+2023/01/17
+======================================================================
+Matthew
+--------
+1a. Done:
+1b. Not Done:
+2. To do:
+  - Create DB on Azure
+  - Make a .NET MAUI project in VS
+  - Connect the Azure database to the MAUI project
+  - Make a mockup of the MAUI project user dashboard
+  - Plan first release
+3. Need assistance / figure things out
+
+Heindy
+-------
+1a. Done:
+1b. Not Done:
+2. To do:
+  - Research .NET MAUI & how to make a maui project in VS
+3. Need assistance / figure things out
+
+Nathaniel
+----------
+1a. Done:
+-tested Avalonia
+-tried some frameworks for the Playlist
+
+1b. Not Done:
+2. To do:
+  - Use-case diagram
+- working framework
+-front pages set up
+
+3. Need assistance / figure things out
+-functionality
+
+======================================================================
+2023/01/18
+======================================================================
+Matthew
+--------
+1a. Done:
+  - Create DB on Azure
+  - Make a mockup of the MAUI project user dashboard (mockup in WPF)
+  - Plan first release
+1b. Not Done:
+  - Make a .NET MAUI project in VS
+  - Connect the Azure database to the MAUI project
+2. To do:
+  - Song play function
+3. Need assistance / figure things out
+
+Heindy
+-------
+1a. Done:
+  - Research .NET MAUI & how to make a maui project in VS (going with Avalonia)
+1b. Not Done:
+2. To do:
+  - User welcome / settings & login page
+3. Need assistance / figure things out
+
+Nathaniel
+----------
+1a. Done:
+  - Use-case diagram
+-WPF framework
+-Playlist Class
+
+1b. Not Done:
+2. To do:
+  - Playlists function
+-link Playlist Class to DB
+-setup DB
+
+3. Need assistance / figure things out
+-link all tables to central DB
+-connecting all members to same Azure server
+
+======================================================================
+2023/01/19
+======================================================================
+Matthew
+--------
+1a. Done:
+1b. Not Done:
+  - Song play function
+2. To do:
+  - Song play function
+3. Need assistance / figure things out
+
+Heindy
+-------
+1a. Done:
+-Create functions to Add and Delete playlist
+-Display Current Playlist name
+
+1b. Not Done:
+  - User welcome / settings & login page
+2. To do:
+  - User welcome / settings & login page
+3. Need assistance / figure things out
+
+Nathaniel
+----------
+1a. Done:
+-Create functions to Add and Delete playlist
+-Display Current Playlist name
+
+1b. Not Done:
+
+2. To do:
+-Edit Button and Window
+-Refresh main window after closing add and edit windows
+
+3. Need assistance / figure things out
+-function to automatically refresh window without clicking button
+
+======================================================================
+2023/01/20
+======================================================================
+Matthew
+--------
+1a. Done:
+1b. Not Done:
+  - Song play function
+2. To do:
+  - Song play function
+  - Song & playlist directories -> save as Azure blobs
+3. Need assistance / figure things out
+
+Heindy
+-------
+1a. Done:
+  - User welcome / settings & login page
+1b. Not Done:
+2. To do:
+  - User save in database
+3. Need assistance / figure things out
+
+Nathaniel
+----------
+1a. Done:
+-Create Edit Button and Window
+-Create function to Edit Playlist name in another window
+
+1b. Not Done:
+2. To do:
+  - Playlist and song covers as blobs (Azure)
+-Refresh main window after closing add and edit windows
+-Media control: get slider to work and play media
+
+3. Need assistance / figure things out
+-Refreshing without clicking buttons
+-pass object from main window to secondary window
+
+======================================================================
+2023/01/21
+======================================================================
+Matthew
+--------
+1a. Done:
+  - Song play function
+  - Created playlist directories
+1b. Not Done:
+2. To do:
+  - Save playlist directories as Azure blobs
+  - Save metadata about playlists
+  - Get song data from MP3 files?
+3. Need assistance / figure things out
+
+Heindy
+-------
+1a. Done:
+  - User save in local database
+  - Login page modern UI
+1b. Not Done:
+2. To do:
+  - User save in Azure database
+3. Need assistance / figure things out
+
+Nathaniel
+----------
+1a. Done:
+-Functioning media slider
+
+1b. Not Done:
+  - Playlist and song covers as blobs (Azure)
+2. To do:
+-implement slider into audio files only
+-put all parts together into same UI
+
+3. Need assistance / figure things out
+  - Playlist and song covers as blobs (Azure)
+-integrating UI together
+-putting all parts together
+
+======================================================================
+2023/01/22
+======================================================================
+Matthew
+--------
+1a. Done:
+  - Save playlist directories as Azure blobs
+1b. Not Done:
+  - Save metadata about playlists
+  - Get song data from MP3 files?
+2. To do:
+  - Save metadata about playlists
+  - Get song data from MP3 files?
+3. Need assistance / figure things out
+
+Heindy
+-------
+1a. Done:
+1b. Not Done:
+2. To do:
+  -UI Updates
+3. Need assistance / figure things out
+- User save in Azure database
+
+Nathaniel
+----------
+1a. Done:
+  - Playlist and song covers as blobs (Azure)
+  -implement slider into audio files only
+1b. Not Done:
+  -put all parts together into same UI
+2. To do:
+  -put all parts together into same UI
+3. Need assistance / figure things out
+  -integrating UI together
+  -putting all parts together
+  
+======================================================================
+2023/01/23
+======================================================================
+Matthew
+--------
+1a. Done:
+  - Save metadata about playlists
+  - User save in Azure database
+  -put all parts together into same UI
+  -integrating UI together
+  -putting all parts together
+1b. Not Done:
+  - Get song data from MP3 files?
+2. To do:
+3. Need assistance / figure things out
+
+Heindy
+-------
+1a. Done:
+  - User save in Azure database
+  - UI Updates
+  -put all parts together into same UI
+  -integrating UI together
+  -putting all parts together
+1b. Not Done:
+2. To do:
+3. Need assistance / figure things out
+
+Nathaniel
+----------
+1a. Done:
+  -integrating UI together
+  -putting all parts together
+1b. Not Done:
+2. To do:
+3. Need assistance / figure things out
+  
+
